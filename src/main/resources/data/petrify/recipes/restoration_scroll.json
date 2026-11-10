@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:amethyst_shard" },
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "result": {
+    "item": "petrify:restoration_scroll"
+  }
+}
